@@ -16,7 +16,7 @@ only after successful UPI payment verification.
 IDLE → SELECT → WAIT_PAYMENT → SPRING_MOVE → DISPENSE
 
 ## Tools
-ModelSim / Questa / Xcelium
+VCS / Verdi 
 
 ## Author
 Rupesh Singh
