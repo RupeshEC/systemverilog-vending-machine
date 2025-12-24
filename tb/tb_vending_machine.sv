@@ -1,5 +1,3 @@
-`timescale 1ns/1ps
-
 module vending_machine_tb;
 
     // ---------------- Signals ----------------
